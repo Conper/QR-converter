@@ -2,6 +2,9 @@
 ## Text to QR code converter created with Python with the "qrcode" library.
 ### Pyhton code:
 ![0101](https://user-images.githubusercontent.com/79358509/215122413-d1508065-f946-4204-8c59-329c76f12785.png)
+#
+
+## How can I use the program?
 ### The first thing you do to use it is open the .exe file. This will appear:
 ![1](https://user-images.githubusercontent.com/79358509/215125559-4e474ea6-ec68-47d2-8739-c412c64aaf3a.png)
 
