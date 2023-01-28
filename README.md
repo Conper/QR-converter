@@ -7,18 +7,7 @@
 ### To use the code from an IDE you just have to copy the code, paste it and run the code.
 ##
 ##
-## How can I use the program?
-### The first thing you do to use it is open the .exe file. This will appear:
-![1](https://user-images.githubusercontent.com/79358509/215166582-8d363dbb-20f2-4b23-b1fa-2dd31c1449b7.png)
+## Preview:
+![tk](https://user-images.githubusercontent.com/79358509/215283801-08ea0342-2026-484a-a7c8-968c6893d4d2.png)
 
-### Write the text or the url of the site you want:
-![2](https://user-images.githubusercontent.com/79358509/215166612-30169508-5e19-4797-841d-7fd12177f9f6.png)
-
-### You put a name to the image of the QR code:
-![3](https://user-images.githubusercontent.com/79358509/215166637-5e4c9c82-f7f6-4752-a801-d966190c2e62.png)
-
-### And in the folder where you have executed the .exe file, the PNG of the QR code will appear.
-### In my case, as I have executed it on the Desktop, it appears here:
-![4](https://user-images.githubusercontent.com/79358509/215124865-7b46245f-b063-4585-90b3-865dd3efecb7.png)
-### And we will have the PNG file of the QR code:
-![5](https://user-images.githubusercontent.com/79358509/215166714-a91253fe-93c4-483b-8c64-de23ecaf146d.png)
+### The result will be saved in the same folder where the application was launched.
