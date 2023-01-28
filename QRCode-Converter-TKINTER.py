@@ -5,7 +5,7 @@ root = tk.Tk()
 root.geometry("860x560")
 root.configure(background="#00284d")
 root.resizable(False,False)
-tk.Wm.wm_title(root, "Hola")
+tk.Wm.wm_title(root, "QR Converter")
 text = tk.StringVar(root)
 name = tk.StringVar(root)
 
